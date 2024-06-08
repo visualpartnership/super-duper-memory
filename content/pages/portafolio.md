@@ -13,7 +13,6 @@ menu:
 App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestión de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.
 <!-- ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg) -->
 ---
----
 ### Proyectos personales, como parte de cursos y escolares
 ---
 [Maderería POS](https://github.com/pwnball-wizard/MadereriaPV)
