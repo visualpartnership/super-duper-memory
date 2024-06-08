@@ -11,7 +11,7 @@ menu:
 [App MisVecinos](https://appmisvecinos.com/)
 ---
 App para Android desarrollada durante mi estancia en Alter Brain Solutions, es una herramienta para la gestión de fraccionamientos. Desarrollada con JAVA y MySQL para la base de datos.
-![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg)
+<!-- ![imagen](https://raw.githubusercontent.com/JS2202/my_launchx_blog/master/static/images/missveci.jpg) -->
 ---
 ---
 ### Proyectos personales, como parte de cursos y escolares
@@ -37,8 +37,8 @@ Realizada como parte de una actividad de LaunchX, utiliza un pequeño script que
 [Link al repositorio](https://github.com/pwnball-wizard/FrontendMissionLaunchX/tree/main/Semana4)
 ---
 ---
-[Página de pastelería](https://625a323f37f5c331b8882412--sprightly-narwhal-61b6a2.netlify.app/#/)
----
+<!-- [Página de pastelería](https://625a323f37f5c331b8882412--sprightly-narwhal-61b6a2.netlify.app/#/)
+--- -->
 Una single page application sencilla realizada como parte de una actividad de LaunchX,desarrollada usando Vue.js, VueX y JavaScript.
 ---
 [Link al repositorio](https://github.com/pwnball-wizard/FrontendMissionLaunchX/tree/main/Semana5/LaunchX%20VueJS-VueX)
